@@ -24,7 +24,7 @@ public class Principal {
         VistaPrincipal vista5 = new VistaPrincipal();
         
         vista1.setVisible(false);
-        vista2.setVisible(false);
+        vista2.setVisible(true);
         vista3.setVisible(false);
         vista4.setVisible(false);
         vista5.setVisible(true);
