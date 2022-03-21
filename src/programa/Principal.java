@@ -21,11 +21,13 @@ public class Principal {
         VistaAutenticacion vista2 = new VistaAutenticacion();
         VistaGestionarProducto vista3 = new VistaGestionarProducto();
         VistaAltaProducto vista4 = new VistaAltaProducto();
+        VistaPrincipal vista5 = new VistaPrincipal();
         
-        vista1.setVisible(true);
+        vista1.setVisible(false);
         vista2.setVisible(false);
         vista3.setVisible(false);
         vista4.setVisible(false);
+        vista5.setVisible(true);
     }
     
 }
